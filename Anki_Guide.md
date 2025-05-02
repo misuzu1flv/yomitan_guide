@@ -109,7 +109,7 @@
 В настройках включить advanced режим
 и желательно английский
 
-![turn-on-advanced](assets/turn-on-advanced.png =500x)
+![turn-on-advanced](assets/turn-on-advanced.png)
 
 ## Словари
 
@@ -211,7 +211,7 @@
 
 Пример:
 
-![пример scanning popup content](assets/popups-in-popups.png =500x)
+![пример scanning popup content](assets/popups-in-popups.png)
 
 ### Frequency sorting словарей
 > Dictionaries -> Frequency sorting dictionary
